@@ -1,5 +1,5 @@
 """
-draw a square whose length of the sides is *length*
+Draws a square with sides of the given length.
 """
 
 def square(t, length):
